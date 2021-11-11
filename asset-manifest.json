@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/curd-operation/static/css/main.0f83595c.chunk.css",
+    "main.js": "/curd-operation/static/js/main.6ad1b94a.chunk.js",
+    "main.js.map": "/curd-operation/static/js/main.6ad1b94a.chunk.js.map",
+    "runtime-main.js": "/curd-operation/static/js/runtime-main.3bdb3e43.js",
+    "runtime-main.js.map": "/curd-operation/static/js/runtime-main.3bdb3e43.js.map",
+    "static/css/2.a75f5a2c.chunk.css": "/curd-operation/static/css/2.a75f5a2c.chunk.css",
+    "static/js/2.ac947710.chunk.js": "/curd-operation/static/js/2.ac947710.chunk.js",
+    "static/js/2.ac947710.chunk.js.map": "/curd-operation/static/js/2.ac947710.chunk.js.map",
+    "static/js/3.a7da0167.chunk.js": "/curd-operation/static/js/3.a7da0167.chunk.js",
+    "static/js/3.a7da0167.chunk.js.map": "/curd-operation/static/js/3.a7da0167.chunk.js.map",
+    "index.html": "/curd-operation/index.html",
+    "static/css/2.a75f5a2c.chunk.css.map": "/curd-operation/static/css/2.a75f5a2c.chunk.css.map",
+    "static/css/main.0f83595c.chunk.css.map": "/curd-operation/static/css/main.0f83595c.chunk.css.map",
+    "static/js/2.ac947710.chunk.js.LICENSE.txt": "/curd-operation/static/js/2.ac947710.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bdb3e43.js",
+    "static/css/2.a75f5a2c.chunk.css",
+    "static/js/2.ac947710.chunk.js",
+    "static/css/main.0f83595c.chunk.css",
+    "static/js/main.6ad1b94a.chunk.js"
+  ]
+}
